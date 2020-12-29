@@ -1,5 +1,4 @@
 # SageMaker Deployment Project
 
-The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
+The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project built with SageMaker using XGBoost.I built a positive - negative Sentiment   classifier on AWS Sagemaker.I made a web page that interacts with deployed endpoints and gives the output using AWS Lambda.
 
-Please see the [README](https://github.com/himanshumangal09/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
